@@ -41,7 +41,7 @@ extension AKPlayer {
         }
 
         if !updateNeeded {
-            AKLog("No buffer update needed")
+            //AKLog("No buffer update needed")
             return
         }
 
